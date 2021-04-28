@@ -2,3 +2,5 @@
 
 User-agent: *
 Disallow: /
+
+sitemap: https://elbalke.github.io/isu-portfolio/sitemap.xml
